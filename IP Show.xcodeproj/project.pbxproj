@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		A38EB53C2B6896F300E84861 /* IP_ShowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38EB53B2B6896F300E84861 /* IP_ShowApp.swift */; };
-		A38EB53E2B6896F300E84861 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38EB53D2B6896F300E84861 /* ContentView.swift */; };
 		A38EB5402B6896F500E84861 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A38EB53F2B6896F500E84861 /* Assets.xcassets */; };
 		A38EB5432B6896F500E84861 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A38EB5422B6896F500E84861 /* Preview Assets.xcassets */; };
 		A38EB54E2B6896F500E84861 /* IP_ShowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38EB54D2B6896F500E84861 /* IP_ShowTests.swift */; };
@@ -36,7 +35,6 @@
 /* Begin PBXFileReference section */
 		A38EB5382B6896F300E84861 /* IP Show.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IP Show.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38EB53B2B6896F300E84861 /* IP_ShowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IP_ShowApp.swift; sourceTree = "<group>"; };
-		A38EB53D2B6896F300E84861 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A38EB53F2B6896F500E84861 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A38EB5422B6896F500E84861 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A38EB5442B6896F500E84861 /* IP_Show.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = IP_Show.entitlements; sourceTree = "<group>"; };
@@ -96,7 +94,6 @@
 			isa = PBXGroup;
 			children = (
 				A38EB53B2B6896F300E84861 /* IP_ShowApp.swift */,
-				A38EB53D2B6896F300E84861 /* ContentView.swift */,
 				A38EB53F2B6896F500E84861 /* Assets.xcassets */,
 				A38EB5442B6896F500E84861 /* IP_Show.entitlements */,
 				A38EB5412B6896F500E84861 /* Preview Content */,
@@ -259,7 +256,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A38EB53E2B6896F300E84861 /* ContentView.swift in Sources */,
 				A38EB53C2B6896F300E84861 /* IP_ShowApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
